@@ -4,10 +4,14 @@
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",
-    "explore": "gridsome explore"
+    "explore": "gridsome explore",
+    "lint": "eslint"
   },
   "dependencies": {
-    "gridsome": "^0.7.0"
+    "eslint": "^8.40.0",
+    "eslint-plugin-gridsome": "^1.6.2",
+    "gridsome": "^0.7.0",
+    "vue-eslint-parser": "^9.3.0"
   },
   "resolutions": {
     "gridsome/sharp": "^0.25.2"
