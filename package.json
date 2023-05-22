@@ -11,6 +11,11 @@
     "eslint": "^8.40.0",
     "eslint-plugin-gridsome": "^1.6.2",
     "gridsome": "^0.7.0",
+    "node-sass": "^9.0.0",
+    "pug": "^3.0.2",
+    "pug-lint": "^2.7.0",
+    "pug-plain-loader": "^1.1.0",
+    "sass-loader": "^13.2.2",
     "vue-eslint-parser": "^9.3.0"
   },
   "resolutions": {
